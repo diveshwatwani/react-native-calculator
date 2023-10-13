@@ -16,6 +16,10 @@ One of the highlights of this project is the integration of Dark Mode Toggle. By
 
 
 
+https://github.com/diveshwatwani/react-native-calculator/assets/60432327/662f8301-f4ce-486a-a116-a0d2f7b11471
+
+
+
 I've thoroughly enjoyed working on this project as it allowed me to strengthen my skills in React Native and develop a practical and functional application.
 
 #reactnative #calculatorapp #darkmode #programming #opensource
