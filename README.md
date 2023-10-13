@@ -9,8 +9,9 @@ The calculator app provides a sleek and user-friendly interface that enables use
 One of the highlights of this project is the integration of Dark Mode Toggle. By adding this feature, users can switch between light and dark themes based on their preference or to suit different lighting conditions. The Dark Mode Toggle enhances the overall user experience and makes it visually appealing.
 
 📸 Here are a few snapshots of the calculator app:
-![image](https://github.com/diveshwatwani/react-native-calculator/assets/60432327/e6af5365-6930-47d4-b977-ee963e0f4350)
 
+
+![image](https://github.com/diveshwatwani/react-native-calculator/assets/60432327/e6af5365-6930-47d4-b977-ee963e0f4350)
 ![image](https://github.com/diveshwatwani/react-native-calculator/assets/60432327/d58f1719-1081-4e7d-a59a-b8136ac17bfa)
 
 
